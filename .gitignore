@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+
+
+# Virtual environments
+.venv
+venv/
+
+# Environment variables
+.env
+
+.idea/
+
+*BAAI-bge-reranker-base*
+*BAAI-bge-small-zh-v1.5*
+
